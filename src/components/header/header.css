@@ -1,0 +1,15 @@
+.navbar {
+	color: aliceblue;
+	background-color: #5e72e4 !important;
+	box-shadow: rgba(116, 129, 141, 0.1) 0 1px 1px 0 !important;
+}
+.link-to {
+	color: aliceblue;
+	display: block;
+	padding: 8px;
+}
+.link-to:hover {
+  color: aliceblue;
+	padding-top: 5px;
+	text-decoration: none;
+}
